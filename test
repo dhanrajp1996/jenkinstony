@@ -1,0 +1,12 @@
+# Store values in variables
+a = 3
+b = 4
+
+# Perform arithmetic operations
+c = a + b
+d = a * b
+
+# Print the results
+print("The value of c is: ", c)
+print("The value of d is: ", d)
+
